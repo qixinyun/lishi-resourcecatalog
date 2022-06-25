@@ -97,6 +97,7 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['ZDRQXYDA'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['XYSFSQ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['CCJCJG'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         //@position
     );
 }

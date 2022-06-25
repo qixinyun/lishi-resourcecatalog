@@ -96,6 +96,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZDRQXYDA'] => 'zdrqxyda',
         IResourceCatalog::TYPE['XYSFSQ'] => 'xysfsq',
         IResourceCatalog::TYPE['CCJCJG'] => 'ccjcjg',
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => 'qyfrggxyzhpjjg',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
