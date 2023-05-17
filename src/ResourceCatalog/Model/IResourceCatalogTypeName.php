@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeName
@@ -97,6 +98,11 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
         IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
         IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
+        IResourceCatalog::TYPE['XZCJ'] => '行政裁决',
+        IResourceCatalog::TYPE['XZJDJC'] => '行政监督检查',
+        IResourceCatalog::TYPE['XZJL'] => '行政奖励',
+        IResourceCatalog::TYPE['XZQR'] => '行政确认',
+        IResourceCatalog::TYPE['XZQZ'] => '行政强制',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
